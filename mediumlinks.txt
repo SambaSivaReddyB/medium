@@ -5,3 +5,5 @@ https://medium.com/tensult/amazon-kinesis-firehose-send-your-apache-logs-to-s3-2
 EKS
 ---
 https://medium.com/@dmaas/setting-up-amazon-eks-what-you-must-know-9b9c39627fbc
+
+https://medium.com/cortico/an-adventure-into-kubernetes-with-amazon-eks-3e67331641fe
