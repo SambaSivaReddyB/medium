@@ -9,3 +9,6 @@ https://medium.com/@dmaas/setting-up-amazon-eks-what-you-must-know-9b9c39627fbc
 https://medium.com/cortico/an-adventure-into-kubernetes-with-amazon-eks-3e67331641fe
 
 https://medium.com/attest-engineering/migrating-from-ecs-to-eks-service-discovery-bc5df39e4b3b
+
+
+dfsdfdsfsdfdsfsddfgdg
