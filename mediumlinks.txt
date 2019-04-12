@@ -2,4 +2,6 @@ https://medium.com/tensult/use-aws-system-manager-bastion-free-ssh-key-free-acce
 
 https://medium.com/tensult/amazon-kinesis-firehose-send-your-apache-logs-to-s3-26876f7cac84
 
-
+EKS
+---
+https://medium.com/@dmaas/setting-up-amazon-eks-what-you-must-know-9b9c39627fbc
