@@ -10,6 +10,4 @@ https://medium.com/cortico/an-adventure-into-kubernetes-with-amazon-eks-3e673316
 
 https://medium.com/attest-engineering/migrating-from-ecs-to-eks-service-discovery-bc5df39e4b3b
 
-11111111111111111111111
-
-5234324234324324234
+https://blog.ndk.name/
