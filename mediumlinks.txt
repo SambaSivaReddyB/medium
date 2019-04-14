@@ -26,8 +26,17 @@ http://rahmonov.me
 http://rahmonov.me/posts/run-a-django-app-with-gunicorn-in-ubuntu-16-04/
 
 
+===================
 Dockerizing web apps
 ===================
 https://itnext.io/scaling-your-symfony-application-and-preparing-it-for-deployment-on-kubernetes-c102bf246a93
 
 https://itnext.io/dockerizing-modern-web-apps-cd9667eebf44
+
+
+===============================================================================
+GUI based front end tools for iptables like Shorewall in conjugation of Webmin
+===============================================================================
+
+https://medium.com/coding-cheatsheet/how-to-install-webmin-on-amazon-linux-centos-rhel-c4b306d80230
+===============================================================================
