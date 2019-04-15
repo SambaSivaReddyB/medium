@@ -40,3 +40,23 @@ GUI based front end tools for iptables like Shorewall in conjugation of Webmin
 
 https://medium.com/coding-cheatsheet/how-to-install-webmin-on-amazon-linux-centos-rhel-c4b306d80230
 ===============================================================================
+AWS Security
+Guardduty
+
+Monitoring your security with GuardDuty in real time with Amazon Elasticsearch Service
+https://aws.amazon.com/blogs/database/monitoring-your-security-with-guardduty-in-real-time-with-amazon-elasticsearch-service/
+
+How to use Amazon GuardDuty and AWS Web Application Firewall to automatically block suspicious hosts
+https://aws.amazon.com/blogs/security/how-to-use-amazon-guardduty-and-aws-web-application-firewall-to-automatically-block-suspicious-hosts/
+
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
+===============================================================================
