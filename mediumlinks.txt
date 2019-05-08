@@ -23,7 +23,7 @@ Django
 https://blog.lawrencemcdaniel.com/serve-a-django-app-from-an-aws-lambda-function/
 
 http://rahmonov.me
-http://rahmonov.me/posts/run-a-django-app-with-gunicorn-in-ubuntu-16-04/
+http://rahmonov.me/posts/run-a-django-app-with-gunicorn-in-ubuntu-16-04/Pipeline as a Code using Jenkins 2
 
 
 ===================
@@ -50,6 +50,8 @@ How to use Amazon GuardDuty and AWS Web Application Firewall to automatically bl
 https://aws.amazon.com/blogs/security/how-to-use-amazon-guardduty-and-aws-web-application-firewall-to-automatically-block-suspicious-hosts/
 
 ===============================================================================
+Pipeline as a Code using Jenkins 2
+https://medium.com/@maxy_ermayank/pipeline-as-a-code-using-jenkins-2-aa872c6ecdce
 ===============================================================================
 ===============================================================================
 ===============================================================================
